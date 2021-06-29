@@ -1,2 +1,2 @@
 # Class-Assignments
-Data Science Class Assignments
+Machine Learning with Data Science Class Assignments
